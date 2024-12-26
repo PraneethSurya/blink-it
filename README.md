@@ -1,5 +1,8 @@
+![image](https://github.com/user-attachments/assets/a58daa01-05ec-4437-a2bf-40f4bfc7743f)
+
+---
 # Blinkit Dashboard Visualization
-# ![Blinkit Logo](https://upload.wikimedia.org/path-to-logo/blinkit-logo.png) Blinkit Dashboard Visualization
+
 
 **Blinkit: India's Last Minute App**  
 This repository contains a comprehensive sales analysis dashboard for Blinkit, designed to provide actionable insights into various aspects of outlet sales, item types, fat content, and outlet performance.
